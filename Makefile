@@ -17,3 +17,6 @@ unit-test-local: ## Execute Unit tests locally
 
 unit-test-local-output: ## Execute Unit tests locally with output
 	helm unittest -f 'tests/*.yaml' -o unittests.xml -t JUnit example-chart
+
+template: ## Template helm chart for local testing
+	helm template example example-chart/ --output-dir output
