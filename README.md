@@ -18,7 +18,7 @@
 
 Incorrect behavior
 
-![image](./assets/ouput-v2.png)
+![image](./assets/output-v2.png)
 
 ## Create
 
