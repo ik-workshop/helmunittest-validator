@@ -1,5 +1,7 @@
 # Helm UnitTest Validator Issue
 
+- [Issue 158](https://github.com/helm-unittest/helm-unittest/issues/158)
+
 ---
 
 ![](https://img.shields.io/github/commit-activity/m/ik-workshop/open-source-issue-blueprint)
