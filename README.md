@@ -1,4 +1,4 @@
-# Issue Blueprint
+# Helm UnitTest Validator Issue
 
 ---
 
@@ -13,7 +13,7 @@
 
 Incorrect behavior
 
-[image](./assets/all-the-output.png)
+![image](./assets/all-the-output.png)
 
 ## Create
 
