@@ -11,6 +11,10 @@
 
 ---
 
+Incorrect behavior
+
+[image](./assets/all-the-output.png)
+
 ## Create
 
 [**Create a repository using this template →**][template.generate]
