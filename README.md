@@ -11,9 +11,14 @@
 
 ---
 
+## Resources
+
+- [Test is based of](https://github.com/helm-unittest/helm-unittest/blob/main/test/data/v3/failing-template/tests/configMap_test.yaml)
+- [Current test can be found her](./example-chart/tests/)
+
 Incorrect behavior
 
-![image](./assets/all-the-output.png)
+![image](./assets/ouput-v2.png)
 
 ## Create
 
